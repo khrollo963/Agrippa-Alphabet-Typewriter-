@@ -1,4 +1,4 @@
-# Celestial Script — The Agrippa / Metatron Alphabet Typewriter
+# Celestial Script — The Agrippa / Metatron Alphabet Typewriter URL: https://khrollo963.github.io/Agrippa-Alphabet-Typewriter-/
 
 A browser-based typewriter that transliterates Hebrew text into the **Alphabet of Metatron** (also known as the Celestial Alphabet, *Alfa Beta shel Metatron*, or the *Malachim* script recorded by Heinrich Cornelius Agrippa) — the dot-and-line "celestial scribe" cipher used for centuries in Kabbalistic and angelic magic traditions.
 
@@ -55,7 +55,7 @@ This is a **single self-contained HTML file** — no build step, no server, no d
 
 ---
 
-## 🚀 Usage
+## 🚀 Usage: URL LINK: https://khrollo963.github.io/Agrippa-Alphabet-Typewriter-/
 
 1. Clone or download this repo.
 2. Open `index.html` in your browser — that's it.
